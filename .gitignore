@@ -1,0 +1,9 @@
+# Arquivo de configuração com segredos
+config.json
+
+# Arquivos de dados gerados pelo programa
+*.json
+*.html
+
+# Binário compilado do Go (se você compilar)
+datasheetApi
