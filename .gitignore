@@ -4,6 +4,6 @@ config.json
 # Arquivos de dados gerados pelo programa
 *.json
 *.html
-
+*.pdf
 # Binário compilado do Go (se você compilar)
 datasheetApi
